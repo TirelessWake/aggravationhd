@@ -1,0 +1,48 @@
+Aggravation HD
+
+Solo
+  Campaign
+    Story modes unlock new boards/environments/characters
+    Increases in challenge
+
+  Challenges
+    Minimal Moves - limited moves against other players but has to jump to win (can't just RHome)
+    Aggravator - SBase to win against N# bots
+
+Multiplayer
+  High Scores
+  Ranked
+  Teams
+  Strategy Tracking
+
+AI
+  Bots
+    Send to Base - seeks to jump other players
+    Run Home - Heads to Home ASAP
+    Mixed - SBase + RHome (aka "Smart")
+    Naive - go long way around
+  Needs to be updateable through patches or purchases
+
+Unlockables
+  pay to unlock
+    in-app purchases
+    app store purchases
+    Deluxe (premium price unlocks most)
+    Season Pass (unlocks "new" content)
+
+    new boards / environments
+    new characters
+
+    Premium Only - "Play as You" : use camera or upload photo
+    Premium Only - "Play as You VR" : 18+ disclaimer content not rated
+
+
+Backend
+  true random dice rolls
+  optional loaded dice for AI or challenge modes
+  optional push updates for sponsored ads
+  built-in access to camera as premium upgrade
+  built-in picture upload and editor as premium upgrade
+  cloud backup scores when possible - firebase db?
+  AI joins in when players dropped or kicked or drop kicked!
+    or Player pieces are left where they are and other players continue until remaining humans win.
