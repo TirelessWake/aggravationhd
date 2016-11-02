@@ -1,8 +1,35 @@
 Aggravation HD
 
+
+Basic Gameplay
+  6 Players (2 minimum)
+  4 marbles per player
+  1 D6 dice per player
+
+Home Rules Gameplay : aka Cheat Codes
+  N# Players
+  N# marbles
+  DN# sided dice
+  N# dice
+  spells?
+  wilds?
+  non-standard boards
+  players can skip their own marbles
+  player can move "up to max roll"
+  split roll across multiple marbles
+  timer : timed play per round [on/off]
+  set the trap : change the center exit roll # required to exit the quicktrap
+
+
 Solo
   Campaign
     Story modes unlock new boards/environments/characters
+      Justin Time -speed challenge vs fast unlockable player
+      Professor Manic - panic mode, players get shocked/penalized for poor decisions on predefined dice roll logic
+      Roy [insert punny name] / RoyAll Design - Go against Roy's Official Strategy on a Royall Design imagined unlockable gameboard
+      Jimmy Rigger / Dwarves of the Deep challenge board - exploding marbles, marbles explode with no return to gameplay
+      Grandma Mildred - tempts you with cookies and coffee to keep you from jumping... or winning.
+      Grandma Martha - doesn't play fair (at random)... unless you push the "uno" type button to cry foul play.
     Increases in challenge
 
   Challenges
@@ -13,7 +40,10 @@ Multiplayer
   High Scores
   Ranked
   Teams
-  Strategy Tracking
+  Strategy Tracking - Replay!
+  Invite Friends
+  Chat
+  VideoChat (premium?)
 
 AI
   Bots
@@ -21,7 +51,9 @@ AI
     Run Home - Heads to Home ASAP
     Mixed - SBase + RHome (aka "Smart")
     Naive - go long way around
-  Needs to be updateable through patches or purchases
+    Weakened Resolve - gets tired / changes strategy
+    Roy - Official Roy bot
+  Needs to be update-able through patches or purchases
 
 Unlockables
   pay to unlock
@@ -37,9 +69,9 @@ Unlockables
     Premium Only - "Play as You VR" : 18+ disclaimer content not rated
 
 
-Backend
+Back-end
   true random dice rolls
-  optional loaded dice for AI or challenge modes
+  optional loaded-dice for AI or challenge modes
   optional push updates for sponsored ads
   built-in access to camera as premium upgrade
   built-in picture upload and editor as premium upgrade
